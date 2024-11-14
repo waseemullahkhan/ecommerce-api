@@ -1,0 +1,17 @@
+{
+  "name": "ecommerce-api",
+  "version": "1.0.0",
+  "description": "eCommerce API for Postgre SQL",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Waseem Ullah Khan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.1",
+    "pg": "^8.13.1"
+  }
+}
